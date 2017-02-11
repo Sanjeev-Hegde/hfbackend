@@ -8,9 +8,9 @@ router.use(express.static('swagger'));
 
 var swaggerDefinition = {
   info: {
-    title: 'ETC Blockchain As Service',
+    title: 'Hegde Farmhouse API',
     version: '1.0.0',
-    description: 'Contains all Api endpints to interact with ETC Blockchain As Service Api',
+    description: 'Contains all Api endpints to interact with HF Services',
   }
 };
 
