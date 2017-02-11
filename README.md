@@ -1,2 +1,2 @@
-<h2>ETC Backend<h2>
-<h4>Note: Checkout hackathon branch to run the backend for demo, which was showcased on 15/12/2016</h4>
+<h2>Hegde Farmhouse Backend<h2>
+<p>This project provides backend services required by <strong>hffrontend</strong></p>
